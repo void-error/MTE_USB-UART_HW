@@ -1,0 +1,45 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74LVC1G57
+D Low-power configurable multiple function gate
+K multifunction
+F https://assets.nexperia.com/documents/data-sheet/74LVC1G57.pdf
+$ENDCMP
+#
+$CMP IRF7241
+D -6.2A Id, -40V Vds, P-Channel HEXFET Power MOSFET, SO-8
+K P-Channel MOSFET
+F http://www.irf.com/product-info/datasheets/data/irf7241.pdf
+$ENDCMP
+#
+$CMP IRF7468
+D 9.4A Id, 40V Vds, HEXFET N-Channel MOSFET, SO-8
+K HEXFET N-Channel MOSFET
+F http://www.irf.com/product-info/datasheets/data/irf7468.pdf
+$ENDCMP
+#
+$CMP OPA2727
+D Dual 20MHz HighPrecision CMOS Operational Amplifier, SOIC-8/MSOP-8/DFN-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/opa727.pdf
+$ENDCMP
+#
+$CMP SN65LVDS1
+D High-Speed Differential Line Driver
+K lvds
+F http://www.ti.com/lit/ds/symlink/sn65lvds1.pdf
+$ENDCMP
+#
+$CMP Si8650BB-B-IS1
+D Low-Power Quad-Channel Digital Isolator, 150Mbps, 2.5-5.5V, 2.5kV isolation, Fail-Safe Low, SOIC-16
+K 5Ch Digital Isolator 150Mbps
+F https://www.silabs.com/documents/public/data-sheets/si865x-datasheet.pdf
+$ENDCMP
+#
+$CMP Si8652BB-B-IS1
+D Low-Power Quad-Channel Digital Isolator, 150Mbps, 2.5-5.5V, 2.5kV isolation, Fail-Safe Low, SOIC-16
+K 5Ch Digital Isolator 150Mbps
+F https://www.silabs.com/documents/public/data-sheets/si865x-datasheet.pdf
+$ENDCMP
+#
+#End Doc Library
